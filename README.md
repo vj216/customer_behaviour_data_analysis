@@ -16,17 +16,8 @@ This project showcases an end-to-end data analytics workflow, including data exp
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Python** – Pandas, NumPy, Matplotlib/Seaborn  
 - **PostgreSQL** – SQL queries and relational analysis  
 - **Power BI** – Interactive dashboard  
 - **Jupyter Notebook** – EDA and cleaning workflows  
-
----
-
-## ⚙️ Setup
-
-### 1. Clone the Repository
-```bash
-git clone <your-repo-link>
-cd <project-folder>
