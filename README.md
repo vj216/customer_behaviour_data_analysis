@@ -7,7 +7,7 @@ This project showcases an end-to-end data analytics workflow, including data exp
 ---
 
 ##  Dataset
-- The dataset is available in the `https://github.com/vj216/customer_behaviour_data_analysis/blob/main/customer_shopping_behavior.csv` .  
+- The dataset is available here `https://github.com/vj216/customer_behaviour_data_analysis/blob/main/customer_shopping_behavior.csv` .  
 - It is used for:
   - Exploratory Data Analysis (EDA)
   - Cleaning and preprocessing
